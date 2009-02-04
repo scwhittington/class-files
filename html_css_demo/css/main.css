@@ -1,0 +1,66 @@
+﻿body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	background-color: #E2EDFF;
+	line-height: 125%;
+	padding: 15 px;
+}
+
+p {color: navy;
+	font-size: small ;
+}
+
+#tagline {
+	font-style: italic;
+	font-family: Georgia, Times, Serif;
+}
+
+li {
+	font-size: small;
+}
+
+h1 {
+	font-family: "Trebuchet MS";
+	font-size: x-large;
+	background-color: navy;
+	color: white;	
+}
+
+h2 {
+	font-size: medium;
+	color: blue;
+	font-weight: normal;
+	background-color: navy;
+	color: white;	
+}
+
+em {
+	text-transform: uppercase;
+}
+
+a {
+	font-weight: bold;
+	color: black;
+		
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	text-decoration: none;
+	color: white;
+	background-color: navy;
+}
+
+a:active {
+	color: aqua;
+	background-color: navy;
+}
+
+.fun {
+	color: #399;
+	font-family: Georgia, Times, Serif;
+	letter-spacing: .05em;
+	
+}

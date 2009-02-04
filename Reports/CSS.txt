@@ -1,0 +1,19 @@
+Seth Whittington
+Client-side Programming
+1/15/09
+
+CSS
+
+	CSS stands for cascading style sheets, which are used to externally style web pages. The source code of the pages that will have the styles applied to them have to link to it, via a link tag located above the header tag in the code. The specifications of CSS are maintained by the World Wide Web Consortium (W3C). Classes can be made on a CSS that can be applied to any number of element tags. ID's are also made on CSS, but are generally applied to only one tag as an identifier. Pseudo-classes can also be applied to links, these will cause an event to occur when the mouse interacts with a link, such as hovering, clicking, already activated, and link. The syntax of CSS is easy to learn and uses many English words to apply styles. CSS allows one to code all the styles he or she wants to apply to a webpage, in a seperate page, and link that page to any other page desired.
+
+Microformats
+	
+	According to Wikipedia.com, a microformat is a web-based approach to semantic markup that seeks to re-use existing XHTML and HTML tags to convey metadata ("data about other data") and other attributes. What I derived from researching semantic markup is that it adds meaning to the code that is already there. For example, if one wanted to specify an "article", there's no <article> tag so a div class would be assigned to the element "class="article". 
+
+http://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_1
+
+http://en.wikipedia.org/wiki/Microformat
+
+http://en.wikipedia.org/wiki/Semantic_markup
+
+http://changelog.ca/log/2006/11/19/what_is_semantic_html

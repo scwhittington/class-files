@@ -1,0 +1,9 @@
+Seth Whittington
+Client-Side Programming
+1/16/09
+
+Block elements and Line elements
+
+	Block elements start in a new line, have a line break before and after. Inline elements are rendered where they occur in the code.
+	
+	Block-level elements usually contain other elements, even inline elements.
